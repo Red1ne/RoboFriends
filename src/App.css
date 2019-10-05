@@ -1,0 +1,7 @@
+@font-face {font-family: "Humanoid"; src: url("//db.onlinewebfonts.com/t/ff34b1d76ea8a8347585363b8871c9b7.eot"); src: url("//db.onlinewebfonts.com/t/ff34b1d76ea8a8347585363b8871c9b7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ff34b1d76ea8a8347585363b8871c9b7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/ff34b1d76ea8a8347585363b8871c9b7.woff") format("woff"), url("//db.onlinewebfonts.com/t/ff34b1d76ea8a8347585363b8871c9b7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/ff34b1d76ea8a8347585363b8871c9b7.svg#Humanoid") format("svg"); }
+
+h1{
+    font-family: "Humanoid";
+    font-weight: 200;
+    color: #0ccac4;
+}
